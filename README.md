@@ -66,4 +66,4 @@ Target male graduates with competitive offers while attracting more female appli
 
 Contributors:
 Manish Sharma: Analysis and Visualization
-Neeraj Ma’am: Project Guidance
+Neeraj Sharma: Project Guidance
