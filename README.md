@@ -8,7 +8,6 @@ Project Overview:
 
 Objective:
 The primary goal of this project is to
-
 Explore income patterns, loan amount trends, and demographic influences on loan approvals.
 Highlight critical factors such as applicant/co-applicant income, credit history, and demographic traits (e.g., gender, marital status, education).
 Provide actionable insights to enhance loan approval processes and promote financial inclusivity.
